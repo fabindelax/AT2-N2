@@ -1,6 +1,14 @@
-- AT2/N2
+- API de Livraria
+  Este é um projeto de API desenvolvido em Node.js e Express para gerenciar livros de uma livraria.
 
-- Fábio Augusto Dias Nascimento
-- uc22101697
+- Funcionalidades
+  A API oferece as seguintes funcionalidades:
+ Listagem de todos os livros disponíveis na livraria.
+ Compra de um livro, atualizando o número de exemplares disponíveis.
+ Cadastro de novos livros na livraria.
 
-- Foi utilizado o para uso da API o Postman
+- Tecnologias Utilizadas
+  Node.js
+  Express
+  JavaScript
+  JSON para armazenamento dos dados dos livros
